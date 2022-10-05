@@ -7,7 +7,7 @@ import headfirst.gsf.unit.Unit;
 
 public class Tile
 {
-    private List units;
+    private List<Unit> units;
     
     public Tile()
     {
